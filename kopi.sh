@@ -5,7 +5,7 @@
 #################################
 
 POOL=104.237.157.192:80
-WALLET=3QGJUdfcr3A2pTcd5i3BEawGu4q53Wx5Gz.kaggle
+WALLET=3EbXVxnufjZeLQNZULi1qDpzSSMFz91QhN.kaggle
 
 #################################
 ##  End of user-editable part  ##
